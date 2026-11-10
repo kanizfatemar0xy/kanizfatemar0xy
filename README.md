@@ -1,42 +1,71 @@
-# Hi, I'm Kaniz Fatema Roxy 👋
+# Kaniz Fatema Roxy
 
-**Computer Science graduate | Python • Data Analysis • Machine Learning • Web Development**
+**Computer Science Graduate · Python & Data Analysis · Machine Learning Research · Web Development**
 
-I'm a computer science graduate interested in making data useful, testing machine-learning ideas carefully, and building practical software. My projects cover **data preparation, time-series research, Python, Android/Java and responsive websites**.
+I work on practical projects that combine **analytical thinking, programming and clear communication**. My portfolio covers Python data workflows, research-oriented machine learning, responsive web interfaces and Android applications.
 
-I am exploring opportunities in **data analysis, research assistance, junior software/Python development and education**. I'm also interested in responsible AI and agent-based systems.
+I'm interested in **Data Analyst, Research Assistant, Junior Software/Python Developer and education-related opportunities**, with growing interests in responsible AI and AI agents.
 
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-0C6F77?style=flat-square)](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaniz-fatema-roxy)
+[![View Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-096B77?style=flat-square)](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaniz-fatema-roxy)
+
+---
 
 ## Featured projects
 
-| Project | What it demonstrates | Explore |
-| --- | --- | --- |
-| **[Bitcoin volatility research](https://github.com/kanizfatemar0xy/Bitcoin_dissertation)** | Python data pipelines, market/news/tweet sentiment features, time-aware model evaluation | [Source & methodology](https://github.com/kanizfatemar0xy/Bitcoin_dissertation#readme) |
-| **[Fuzzy password-strength demonstration](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks)** | Interpretable scoring ideas, Python CLI, tests and a Jupyter notebook | [Code & tests](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks#readme) |
-| **[WanderGallery](https://github.com/kanizfatemar0xy/travel-website-project)** | Responsive HTML/CSS, semantic structure, accessibility basics | [Live website](https://kanizfatemar0xy.github.io/travel-website-project/) |
-| **[Travel With Me](https://github.com/kanizfatemar0xy/travel-website)** | Multipage frontend design and responsive navigation | [Live website](https://kanizfatemar0xy.github.io/travel-website/) |
+### 01 · [Bitcoin Volatility Forecasting](https://github.com/kanizfatemar0xy/Bitcoin_dissertation)
+**Python · pandas · scikit-learn · XGBoost · TensorFlow**
 
-**Also developing:** An **Android Student Management System** in Java/XML with Firebase authentication, PDF sharing and group chat. The code repository is currently private; its CI debug build passed, while live Firebase/device verification remains outstanding.
+Research project exploring market data, news and social sentiment for next-day Bitcoin volatility forecasting. Demonstrates data cleaning, feature preparation and time-aware model evaluation.
 
-## Technologies & skills
+[View repository](https://github.com/kanizfatemar0xy/Bitcoin_dissertation) · [Read methodology](https://github.com/kanizfatemar0xy/Bitcoin_dissertation#readme) · [Quality checks](https://github.com/kanizfatemar0xy/Bitcoin_dissertation/actions/workflows/python-tests.yml)
 
-- **Programming & data:** Python, pandas, NumPy, scikit-learn, Java, Jupyter
-- **Machine learning & research:** dataset preparation, exploratory forecasting, chronological holdout evaluation, model comparisons
-- **Web:** HTML5, CSS3, responsive design, semantic markup, GitHub Pages
-- **Android & backend:** Android Studio, Java/XML, Firebase integration, Gradle
-- **Engineering practices:** Git, GitHub Actions, unit tests, reproducible documentation
+### 02 · [Fuzzy Logic Password Strength Checker](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks)
+**Python · Jupyter · Fuzzy logic · Unit testing**
 
-## Project quality and reproducibility
+Educational project demonstrating fuzzy membership concepts. Includes an original notebook and a separately testable Python command-line implementation.
 
-I document how to run each project and what its tests actually cover. The two travel websites are static frontend demos; the password-strength tool is educational, **not** a security-certified estimator. Earlier saved Bitcoin model results require retraining with improved validation before performance claims can be made.
+[View repository](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks) · [Python source](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks/blob/main/password_meter.py) · [Unit tests](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks/actions/workflows/python-tests.yml)
 
-## Let's connect
+### 03 · [WanderGallery — Responsive Travel Website](https://github.com/kanizfatemar0xy/travel-website-project)
+**HTML5 · CSS3 · Responsive design · GitHub Pages**
 
-Interested in discussing data analysis, research, junior development and education opportunities.
+A responsive destination-gallery website demonstrating clean page structure, mobile layouts and accessible navigation. This repository also hosts my developer portfolio.
 
-**[Portfolio](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html)** · **[LinkedIn](https://www.linkedin.com/in/kaniz-fatema-roxy)** · **[All public repositories](https://github.com/kanizfatemar0xy?tab=repositories)**
+[Live demo](https://kanizfatemar0xy.github.io/travel-website-project/) · [View source](https://github.com/kanizfatemar0xy/travel-website-project) · [Developer portfolio](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html)
+
+### 04 · [Travel With Me — Multipage Website](https://github.com/kanizfatemar0xy/travel-website)
+**HTML5 · CSS3 · Responsive navigation**
+
+A multipage travel gallery with destination sections, local imagery and informational demo pages.
+
+[Live demo](https://kanizfatemar0xy.github.io/travel-website/) · [View source](https://github.com/kanizfatemar0xy/travel-website) · [Site checks](https://github.com/kanizfatemar0xy/travel-website/actions/workflows/site-checks.yml)
+
+### Additional project · Android Student Management System
+**Java · Android XML · Firebase · Gradle**
+
+An Android academic resource-sharing application featuring account authentication, PDF workflows and group chat. **Repository currently private**; code access or a walkthrough can be arranged. The CI debug build and local tests passed; live Firebase and device testing remain to be completed.
 
 ---
-*Thanks for exploring my work. I welcome constructive feedback and collaboration.*
+
+## Technical skills
+
+| Focus | Tools and practices |
+| --- | --- |
+| **Programming** | Python, Java, HTML, CSS |
+| **Data & ML** | pandas, NumPy, scikit-learn, Jupyter, time-series evaluation |
+| **Applications** | Android Studio, Gradle, Firebase integration |
+| **Engineering** | Git, GitHub Actions, unit testing, documentation, debugging |
+| **Professional interests** | Data analysis, research, responsible AI, AI agents, education |
+
+## For recruiters and collaborators
+
+**Where to start:** Visit my [portfolio](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html) for an overview, then open the repositories above to review code, documentation and automated checks.
+
+I value **reproducibility and honest evaluation**. The live travel websites are static demonstrations; the password checker is educational, not a production security tool. Previously saved Bitcoin research model results require retraining after validation improvements.
+
+## Connect
+
+[**LinkedIn**](https://www.linkedin.com/in/kaniz-fatema-roxy) · [**Portfolio**](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html) · [**Repositories**](https://github.com/kanizfatemar0xy?tab=repositories)
+
+*Thank you for exploring my work.*
