@@ -13,6 +13,13 @@ I'm interested in **Data Analyst, Research Assistant, Junior Software/Python Dev
 
 ## Featured projects
 
+### 00 · [London Weather Analysis & Next-Day Forecasting (1979–2023)](projects/london-weather-1979-2023/README.md)
+**Python · pandas · scikit-learn · Jupyter · Time-series evaluation**
+
+Quality-aware analysis of Heathrow daily weather observations, including rainfall and sunshine forecasting with chronological train/validation/test splits. Includes a documented notebook, reproducible Python modules, and automated synthetic-data checks. **Real-data forecasting results are not yet verified.**
+
+[Open project](projects/london-weather-1979-2023/README.md) · [Explore notebook](projects/london-weather-1979-2023/DataScienceReport_Fixed.ipynb) · [Tests](projects/london-weather-1979-2023/tests/test_weather_project.py)
+
 ### 01 · [Bitcoin Volatility Forecasting](https://github.com/kanizfatemar0xy/Bitcoin_dissertation)
 **Python · pandas · scikit-learn · XGBoost · TensorFlow**
 

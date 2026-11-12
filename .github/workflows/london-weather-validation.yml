@@ -1,0 +1,30 @@
+name: London Weather - Python tests
+on:
+  push:
+    paths:
+      - 'projects/london-weather-1979-2023/**'
+      - '.github/workflows/london-weather-validation.yml'
+  pull_request:
+    paths:
+      - 'projects/london-weather-1979-2023/**'
+      - '.github/workflows/london-weather-validation.yml'
+  workflow_dispatch:
+jobs:
+  validation:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: projects/london-weather-1979-2023
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+      - name: Offline unit and notebook structure tests
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Full notebook integration on explicitly synthetic fixture
+        run: python tests/run_notebook_smoke.py

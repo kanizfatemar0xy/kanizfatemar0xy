@@ -1,0 +1,11 @@
+# Local observations are intentionally not redistributed by this repository.
+data/*.csv
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+figures/*.png
