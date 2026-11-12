@@ -16,8 +16,8 @@ A quick guide for recruiters and collaborators:
 
 | Interested in | Recommended starting points |
 | --- | --- |
-| **Data analysis & research** | [05 · London Weather](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/london-weather-1979-2023) · [01 · Bitcoin research](https://github.com/kanizfatemar0xy/Bitcoin_dissertation) |
-| **Python & machine learning** | [06 · Q-Learning](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/gridworld-q-learning) · [02 · Fuzzy Logic](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks) |
+| **Data analysis & research** | [05 · London Weather](https://github.com/kanizfatemar0xy/London-Weather-Data-Science) · [01 · Bitcoin research](https://github.com/kanizfatemar0xy/Bitcoin_dissertation) |
+| **Python & machine learning** | [06 · Q-Learning](https://github.com/kanizfatemar0xy/GridWorld-Q-Learning) · [02 · Fuzzy Logic](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks) |
 | **Frontend development** | [03 · WanderGallery (live)](https://kanizfatemar0xy.github.io/travel-website-project/) · [04 · Travel With Me (live)](https://kanizfatemar0xy.github.io/travel-website/) |
 
 ## Featured projects
@@ -56,21 +56,21 @@ Travel-themed multipage frontend demonstrating page structure, image galleries, 
 
 [Live demo](https://kanizfatemar0xy.github.io/travel-website/) · [Source code](https://github.com/kanizfatemar0xy/travel-website)
 
-### 05 · [London Weather Analysis & Next-Day Forecasting (1979–2023)](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/london-weather-1979-2023)
+### 05 · [London Weather Analysis & Next-Day Forecasting (1979–2023)](https://github.com/kanizfatemar0xy/London-Weather-Data-Science)
 
 **Python · pandas · NumPy · scikit-learn · Jupyter**
 
 Heathrow weather analysis with careful unit conversions, data-quality filtering, visualisations, and chronological forecasting evaluation. Synthetic-data integration tests passed; final real-data results remain unverified.
 
-[Project](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/london-weather-1979-2023) · [Notebook](https://github.com/kanizfatemar0xy/kanizfatemar0xy/blob/main/projects/london-weather-1979-2023/DataScienceReport_Fixed.ipynb) · [CI](https://github.com/kanizfatemar0xy/kanizfatemar0xy/actions/workflows/london-weather-validation.yml)
+[Project](https://github.com/kanizfatemar0xy/London-Weather-Data-Science) · [Notebook](https://github.com/kanizfatemar0xy/London-Weather-Data-Science/blob/main/DataScienceReport_Fixed.ipynb) · [CI](https://github.com/kanizfatemar0xy/London-Weather-Data-Science/actions/workflows/validation.yml)
 
-### 06 · [GridWorld Q-Learning — Reinforcement Learning Agent](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/gridworld-q-learning)
+### 06 · [GridWorld Q-Learning — Reinforcement Learning Agent](https://github.com/kanizfatemar0xy/GridWorld-Q-Learning)
 
 **Python · NumPy · Reinforcement learning · Automated tests**
 
 Reproducible tabular Q-learning for a fixed deterministic 4×4 grid, with seeded exploration, policy evaluation, and shortest-path checks. In the documented runs, 17 tests passed and 30/30 seeded policies found the six-move route.
 
-[Project](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/gridworld-q-learning) · [Python source](https://github.com/kanizfatemar0xy/kanizfatemar0xy/blob/main/projects/gridworld-q-learning/rl_qlearning.py) · [CI](https://github.com/kanizfatemar0xy/kanizfatemar0xy/actions/workflows/gridworld-qlearning-validation.yml)
+[Project](https://github.com/kanizfatemar0xy/GridWorld-Q-Learning) · [Python source](https://github.com/kanizfatemar0xy/GridWorld-Q-Learning/blob/main/rl_qlearning.py) · [CI](https://github.com/kanizfatemar0xy/GridWorld-Q-Learning/actions/workflows/validation.yml)
 
 
 ### Additional project · Android Student Management System (private)
