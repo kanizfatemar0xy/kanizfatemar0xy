@@ -1,0 +1,256 @@
+{
+  "environment": {
+    "size": 4,
+    "start": 0,
+    "goal": 15,
+    "holes": [
+      5,
+      7,
+      11,
+      12
+    ]
+  },
+  "config": {
+    "episodes": 3000,
+    "max_steps": 64,
+    "learning_rate": 0.2,
+    "discount": 0.97,
+    "epsilon_start": 1.0,
+    "epsilon_min": 0.05,
+    "epsilon_decay": 0.997,
+    "seed": 42
+  },
+  "greedy_evaluation": {
+    "outcome": "goal",
+    "success": true,
+    "steps": 6,
+    "states": [
+      0,
+      1,
+      2,
+      6,
+      10,
+      14,
+      15
+    ],
+    "actions": [
+      "RIGHT",
+      "RIGHT",
+      "DOWN",
+      "DOWN",
+      "DOWN",
+      "RIGHT"
+    ],
+    "total_reward": 9.95
+  },
+  "bfs_shortest_path": [
+    0,
+    4,
+    8,
+    9,
+    13,
+    14,
+    15
+  ],
+  "training_last_100_success_fraction": 0.96,
+  "benchmark": {
+    "training_seeds": 30,
+    "successful_policies": 30,
+    "success_rate": 1.0,
+    "shortest_path_policies": 30,
+    "shortest_path_rate": 1.0,
+    "shortest_path_steps": 6,
+    "seed_results": [
+      {
+        "seed": 0,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 1,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 2,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 3,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 4,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 5,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 6,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 7,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 8,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 9,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 10,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 11,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 12,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 13,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 14,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 15,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 16,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 17,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 18,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 19,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 20,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 21,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 22,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 23,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 24,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 25,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 26,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 27,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 28,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      },
+      {
+        "seed": 29,
+        "success": true,
+        "steps": 6,
+        "outcome": "goal"
+      }
+    ]
+  },
+  "random_policy_baseline": {
+    "episodes": 2000,
+    "seed": 2025,
+    "outcomes": {
+      "goal": 29,
+      "hole": 1971,
+      "timeout": 0
+    },
+    "goal_fraction": 0.0145
+  }
+}

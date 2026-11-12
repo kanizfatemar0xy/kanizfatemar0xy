@@ -13,7 +13,7 @@ I'm interested in **Data Analyst, Research Assistant, Junior Software/Python Dev
 
 ## Featured projects
 
-<!-- Keep existing project numbers fixed. Append each newly published public portfolio project at the end, using the next number (06, 07, etc.). Do not insert new projects as 00 or renumber prior entries. -->
+<!-- Keep existing project numbers fixed. Append each newly published public portfolio project at the end, using the next number (07, 08, etc.). Do not insert new projects as 00 or renumber prior entries. -->
 
 ### 01 · [Bitcoin Volatility Forecasting](https://github.com/kanizfatemar0xy/Bitcoin_dissertation)
 **Python · pandas · scikit-learn · XGBoost · TensorFlow**
@@ -49,6 +49,13 @@ A multipage travel gallery with destination sections, local imagery and informat
 Quality-aware analysis of Heathrow daily weather observations, including rainfall and sunshine forecasting with chronological train/validation/test splits. Includes a documented notebook, reproducible Python modules, and automated synthetic-data checks. **Real-data forecasting results are not yet verified.**
 
 [Open project](projects/london-weather-1979-2023/README.md) · [Explore notebook](projects/london-weather-1979-2023/DataScienceReport_Fixed.ipynb) · [Tests](projects/london-weather-1979-2023/tests/test_weather_project.py)
+
+### 06 · [GridWorld Q-Learning — Reinforcement Learning Agent](projects/gridworld-q-learning/README.md)
+**Python · NumPy · Q-learning · Policy evaluation · Unit tests**
+
+Reproducible tabular Q-learning on a deterministic 4×4 grid, with proper terminal-state updates, seeded exploration, learning diagnostics and independent shortest-path verification. **17 automated tests passed; 30/30 independently seeded policies learned a six-move shortest route on the fixed map.** This is an educational benchmark, not a generalisation claim.
+
+[Project details](projects/gridworld-q-learning/README.md) · [Python code](projects/gridworld-q-learning/rl_qlearning.py) · [Reproducible results](projects/gridworld-q-learning/examples/evaluation_seed42.json)
 
 ### Additional project · Android Student Management System
 **Java · Android XML · Firebase · Gradle**
