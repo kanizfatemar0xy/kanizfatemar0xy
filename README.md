@@ -1,87 +1,103 @@
 # Kaniz Fatema Roxy
 
-**Computer Science Graduate · Python & Data Analysis · Machine Learning Research · Web Development**
+**Computer Science Graduate | Data Analysis · Python · Machine Learning · Software & Web Development**
 
-I work on practical projects that combine **analytical thinking, programming and clear communication**. My portfolio covers Python data workflows, research-oriented machine learning, responsive web interfaces and Android applications.
+I build practical, well-documented software and data projects. My work includes data preparation, time-series analysis, reinforcement learning, responsive websites, and Android development.
 
-I'm interested in **Data Analyst, Research Assistant, Junior Software/Python Developer and education-related opportunities**, with growing interests in responsible AI and AI agents.
+**Career interests:** Data Analyst · Research Assistant · Junior Python/Software Developer · Technology-focused education
 
-[![View Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-096B77?style=flat-square)](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaniz-fatema-roxy)
+[**Explore my portfolio**](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html) · [**Connect on LinkedIn**](https://www.linkedin.com/in/kaniz-fatema-roxy) · [**See all repositories**](https://github.com/kanizfatemar0xy?tab=repositories)
 
 ---
 
+## Start here
+
+A quick guide for recruiters and collaborators:
+
+| Interested in | Recommended starting points |
+| --- | --- |
+| **Data analysis & research** | [05 · London Weather](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/london-weather-1979-2023) · [01 · Bitcoin research](https://github.com/kanizfatemar0xy/Bitcoin_dissertation) |
+| **Python & machine learning** | [06 · Q-Learning](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/gridworld-q-learning) · [02 · Fuzzy Logic](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks) |
+| **Frontend development** | [03 · WanderGallery (live)](https://kanizfatemar0xy.github.io/travel-website-project/) · [04 · Travel With Me (live)](https://kanizfatemar0xy.github.io/travel-website/) |
+
 ## Featured projects
 
-<!-- Keep existing project numbers fixed. Append each newly published public portfolio project at the end, using the next number (07, 08, etc.). Do not insert new projects as 00 or renumber prior entries. -->
+<!-- Preserve numbered order. New public portfolio projects are appended as 07, 08, 09 and onward; never insert 00 or renumber existing entries. -->
 
 ### 01 · [Bitcoin Volatility Forecasting](https://github.com/kanizfatemar0xy/Bitcoin_dissertation)
+
 **Python · pandas · scikit-learn · XGBoost · TensorFlow**
 
-Research project exploring market data, news and social sentiment for next-day Bitcoin volatility forecasting. Demonstrates data cleaning, feature preparation and time-aware model evaluation.
+Research-oriented time-series project combining historical market prices with news and social-media sentiment. Focuses on feature preparation, model comparison, and leakage-aware evaluation.
 
-[View repository](https://github.com/kanizfatemar0xy/Bitcoin_dissertation) · [Read methodology](https://github.com/kanizfatemar0xy/Bitcoin_dissertation#readme) · [Quality checks](https://github.com/kanizfatemar0xy/Bitcoin_dissertation/actions/workflows/python-tests.yml)
+[Source & methodology](https://github.com/kanizfatemar0xy/Bitcoin_dissertation) · [Tests](https://github.com/kanizfatemar0xy/Bitcoin_dissertation/actions/workflows/python-tests.yml)
 
 ### 02 · [Fuzzy Logic Password Strength Checker](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks)
+
 **Python · Jupyter · Fuzzy logic · Unit testing**
 
-Educational project demonstrating fuzzy membership concepts. Includes an original notebook and a separately testable Python command-line implementation.
+Educational demonstration of interpretable fuzzy membership concepts, feature engineering, and a testable Python command-line application.
 
-[View repository](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks) · [Python source](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks/blob/main/password_meter.py) · [Unit tests](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks/actions/workflows/python-tests.yml)
+[Code & notebook](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks) · [Unit tests](https://github.com/kanizfatemar0xy/-Fuzzy-Logic-and-Neural-Networks/actions/workflows/python-tests.yml)
 
-### 03 · [WanderGallery — Responsive Travel Website](https://github.com/kanizfatemar0xy/travel-website-project)
-**HTML5 · CSS3 · Responsive design · GitHub Pages**
+### 03 · [WanderGallery — Travel Website & Portfolio](https://github.com/kanizfatemar0xy/travel-website-project)
 
-A responsive destination-gallery website demonstrating clean page structure, mobile layouts and accessible navigation. This repository also hosts my developer portfolio.
+**HTML · CSS · Responsive design · GitHub Pages**
 
-[Live demo](https://kanizfatemar0xy.github.io/travel-website-project/) · [View source](https://github.com/kanizfatemar0xy/travel-website-project) · [Developer portfolio](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html)
+Responsive destination gallery with accessible navigation and mobile-friendly layouts. Also hosts my visual developer portfolio.
+
+[Live demo](https://kanizfatemar0xy.github.io/travel-website-project/) · [Source code](https://github.com/kanizfatemar0xy/travel-website-project) · [Portfolio](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html)
 
 ### 04 · [Travel With Me — Multipage Website](https://github.com/kanizfatemar0xy/travel-website)
-**HTML5 · CSS3 · Responsive navigation**
 
-A multipage travel gallery with destination sections, local imagery and informational demo pages.
+**HTML · CSS · Responsive navigation**
 
-[Live demo](https://kanizfatemar0xy.github.io/travel-website/) · [View source](https://github.com/kanizfatemar0xy/travel-website) · [Site checks](https://github.com/kanizfatemar0xy/travel-website/actions/workflows/site-checks.yml)
+Travel-themed multipage frontend demonstrating page structure, image galleries, and static informational pages.
 
-### 05 · [London Weather Analysis & Next-Day Forecasting (1979–2023)](projects/london-weather-1979-2023/README.md)
-**Python · pandas · scikit-learn · Jupyter · Time-series evaluation**
+[Live demo](https://kanizfatemar0xy.github.io/travel-website/) · [Source code](https://github.com/kanizfatemar0xy/travel-website)
 
-Quality-aware analysis of Heathrow daily weather observations, including rainfall and sunshine forecasting with chronological train/validation/test splits. Includes a documented notebook, reproducible Python modules, and automated synthetic-data checks. **Real-data forecasting results are not yet verified.**
+### 05 · [London Weather Analysis & Next-Day Forecasting (1979–2023)](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/london-weather-1979-2023)
 
-[Open project](projects/london-weather-1979-2023/README.md) · [Explore notebook](projects/london-weather-1979-2023/DataScienceReport_Fixed.ipynb) · [Tests](projects/london-weather-1979-2023/tests/test_weather_project.py)
+**Python · pandas · NumPy · scikit-learn · Jupyter**
 
-### 06 · [GridWorld Q-Learning — Reinforcement Learning Agent](projects/gridworld-q-learning/README.md)
-**Python · NumPy · Q-learning · Policy evaluation · Unit tests**
+Heathrow weather analysis with careful unit conversions, data-quality filtering, visualisations, and chronological forecasting evaluation. Synthetic-data integration tests passed; final real-data results remain unverified.
 
-Reproducible tabular Q-learning on a deterministic 4×4 grid, with proper terminal-state updates, seeded exploration, learning diagnostics and independent shortest-path verification. **17 automated tests passed; 30/30 independently seeded policies learned a six-move shortest route on the fixed map.** This is an educational benchmark, not a generalisation claim.
+[Project](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/london-weather-1979-2023) · [Notebook](https://github.com/kanizfatemar0xy/kanizfatemar0xy/blob/main/projects/london-weather-1979-2023/DataScienceReport_Fixed.ipynb) · [CI](https://github.com/kanizfatemar0xy/kanizfatemar0xy/actions/workflows/london-weather-validation.yml)
 
-[Project details](projects/gridworld-q-learning/README.md) · [Python code](projects/gridworld-q-learning/rl_qlearning.py) · [Reproducible results](projects/gridworld-q-learning/examples/evaluation_seed42.json)
+### 06 · [GridWorld Q-Learning — Reinforcement Learning Agent](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/gridworld-q-learning)
 
-### Additional project · Android Student Management System
+**Python · NumPy · Reinforcement learning · Automated tests**
+
+Reproducible tabular Q-learning for a fixed deterministic 4×4 grid, with seeded exploration, policy evaluation, and shortest-path checks. In the documented runs, 17 tests passed and 30/30 seeded policies found the six-move route.
+
+[Project](https://github.com/kanizfatemar0xy/kanizfatemar0xy/tree/main/projects/gridworld-q-learning) · [Python source](https://github.com/kanizfatemar0xy/kanizfatemar0xy/blob/main/projects/gridworld-q-learning/rl_qlearning.py) · [CI](https://github.com/kanizfatemar0xy/kanizfatemar0xy/actions/workflows/gridworld-qlearning-validation.yml)
+
+
+### Additional project · Android Student Management System (private)
+
 **Java · Android XML · Firebase · Gradle**
 
-An Android academic resource-sharing application featuring account authentication, PDF workflows and group chat. **Repository currently private**; code access or a walkthrough can be arranged. The CI debug build and local tests passed; live Firebase and device testing remain to be completed.
+Academic-resource Android application exploring authentication, PDF sharing, and group chat. The repository is private. CI debug build and local JVM tests passed; real Firebase and device testing are still required.
 
 ---
 
 ## Technical skills
 
-| Focus | Tools and practices |
+| Area | Tools and practices |
 | --- | --- |
 | **Programming** | Python, Java, HTML, CSS |
-| **Data & ML** | pandas, NumPy, scikit-learn, Jupyter, time-series evaluation |
-| **Applications** | Android Studio, Gradle, Firebase integration |
-| **Engineering** | Git, GitHub Actions, unit testing, documentation, debugging |
-| **Professional interests** | Data analysis, research, responsible AI, AI agents, education |
+| **Data & machine learning** | pandas, NumPy, scikit-learn, Jupyter, time-series evaluation, Matplotlib |
+| **Applications** | Android Studio, Java/XML, Firebase integration, Gradle |
+| **Engineering** | Git, GitHub Actions, unit testing, debugging, reproducible documentation |
 
-## For recruiters and collaborators
+## How to review my work
 
-**Where to start:** Visit my [portfolio](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html) for an overview, then open the repositories above to review code, documentation and automated checks.
+Open any featured project's **source code**, read its **README**, and check the linked **tests or live demo**. I document verified behaviour and research limitations rather than presenting unverified results as achievements.
 
-I value **reproducibility and honest evaluation**. The live travel websites are static demonstrations; the password checker is educational, not a production security tool. Previously saved Bitcoin research model results require retraining after validation improvements.
+**Scope notes:** The password checker is an educational demonstration, not a certified security tool. Travel pages are static demos, not operational booking systems. Bitcoin model artifacts need evaluation under improved validation. Weather forecasting still requires full real-data validation. The GridWorld benchmark is limited to a deterministic toy environment.
 
-## Connect
+## Contact
 
-[**LinkedIn**](https://www.linkedin.com/in/kaniz-fatema-roxy) · [**Portfolio**](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html) · [**Repositories**](https://github.com/kanizfatemar0xy?tab=repositories)
+I'm interested in opportunities to apply analytical thinking and software development skills, and I welcome professional collaboration.
 
-*Thank you for exploring my work.*
+**[LinkedIn](https://www.linkedin.com/in/kaniz-fatema-roxy)** · **[Developer portfolio](https://kanizfatemar0xy.github.io/travel-website-project/portfolio.html)** · **[GitHub repositories](https://github.com/kanizfatemar0xy?tab=repositories)**
