@@ -13,12 +13,7 @@ I'm interested in **Data Analyst, Research Assistant, Junior Software/Python Dev
 
 ## Featured projects
 
-### 00 · [London Weather Analysis & Next-Day Forecasting (1979–2023)](projects/london-weather-1979-2023/README.md)
-**Python · pandas · scikit-learn · Jupyter · Time-series evaluation**
-
-Quality-aware analysis of Heathrow daily weather observations, including rainfall and sunshine forecasting with chronological train/validation/test splits. Includes a documented notebook, reproducible Python modules, and automated synthetic-data checks. **Real-data forecasting results are not yet verified.**
-
-[Open project](projects/london-weather-1979-2023/README.md) · [Explore notebook](projects/london-weather-1979-2023/DataScienceReport_Fixed.ipynb) · [Tests](projects/london-weather-1979-2023/tests/test_weather_project.py)
+<!-- Keep existing project numbers fixed. Append each newly published public portfolio project at the end, using the next number (06, 07, etc.). Do not insert new projects as 00 or renumber prior entries. -->
 
 ### 01 · [Bitcoin Volatility Forecasting](https://github.com/kanizfatemar0xy/Bitcoin_dissertation)
 **Python · pandas · scikit-learn · XGBoost · TensorFlow**
@@ -47,6 +42,13 @@ A responsive destination-gallery website demonstrating clean page structure, mob
 A multipage travel gallery with destination sections, local imagery and informational demo pages.
 
 [Live demo](https://kanizfatemar0xy.github.io/travel-website/) · [View source](https://github.com/kanizfatemar0xy/travel-website) · [Site checks](https://github.com/kanizfatemar0xy/travel-website/actions/workflows/site-checks.yml)
+
+### 05 · [London Weather Analysis & Next-Day Forecasting (1979–2023)](projects/london-weather-1979-2023/README.md)
+**Python · pandas · scikit-learn · Jupyter · Time-series evaluation**
+
+Quality-aware analysis of Heathrow daily weather observations, including rainfall and sunshine forecasting with chronological train/validation/test splits. Includes a documented notebook, reproducible Python modules, and automated synthetic-data checks. **Real-data forecasting results are not yet verified.**
+
+[Open project](projects/london-weather-1979-2023/README.md) · [Explore notebook](projects/london-weather-1979-2023/DataScienceReport_Fixed.ipynb) · [Tests](projects/london-weather-1979-2023/tests/test_weather_project.py)
 
 ### Additional project · Android Student Management System
 **Java · Android XML · Firebase · Gradle**
